@@ -8,11 +8,6 @@ Welcome to the Manchester United vs Newcastle United Shot Statistics Scraper! Th
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -36,23 +31,11 @@ This project aims to provide an easy-to-use script for scraping detailed shot st
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/match-shots-stats-scraper.git
-    cd match-shots-stats-scraper
+    git clone https://github.com/aarish22/ManchesterUnitedVNewcastle_Scraping.git
     ```
 
 2. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-
-## Usage
-
-1. Ensure you have the required libraries installed (see [Installation](#installation)).
-2. Run the scraper script:
-    ```bash
-    python scraper.py
-    ```
-3. The script will output the scraped data to a JSON file in the `output` directory.
-
-## Project Structure
 
